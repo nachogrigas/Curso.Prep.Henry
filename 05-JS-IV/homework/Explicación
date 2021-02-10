@@ -1,0 +1,5 @@
+// Obejtos son aquellos que variables que se definen por varias propidades 
+// Una propiedad es una caracteristica ocualidad del objeto
+// Los métodos sno funciones que el obejto puede hacr, serían como una propiedadpero con algun acción
+//Un buvle for in es para recorrer y buscar algo dentro de un objeto a través e todas sus propiedades
+//La notación de puntos es una forma mnás facil y muy concreta de acceder a las propiedades del objeto y usarlas o devolverlas, ahora la notación de corchetes es una notación que me permite hacer lo mismo que la anterior y además usar esa propiedad como una variable que después uedo modificar
